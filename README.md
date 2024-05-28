@@ -65,7 +65,7 @@
 			<td width="50%">
 				<h3 align="center">Project 2</h3>
 				<div align="center" >  
-					<a href='https://codingphase.com' target="_blank">
+					<a href='https://github.com/Rilwan0410/tech_blog_app' target="_blank">
 						<img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/projectthumb.jpg" alt="project 2" height="100%" />
 					</a>
 					<br>
