@@ -127,8 +127,10 @@
 		    <p>This is a Node JS application that allows you to create a database for employee information regarding the the name of the employee, their managers, the departments, salary and more. This app was created using inquirer to promot questions in the cli, as well as MySQL to query to a database to save and persist all of the data.</p>
                 </div>	
             </td>
+		     </tr>
+		<tr>
 		    <td width="50%">
-<!-- Project Six -->
+<!-- Project Five -->
 				<h3 align="center">Password Generator</h3>
 				<div align="center">  
 					<a href='https://rilwan-tech-blog-950b9bce78ba.herokuapp.com/' target="_blank">
@@ -150,7 +152,7 @@
 					</p>
 				</div>
 			</td>
-        </tr>
+       </tr>
 	</table>
 </div>
 <br />
