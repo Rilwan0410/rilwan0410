@@ -89,7 +89,7 @@
 <!-- Project Three -->
                 <h3 align="center">Note Taker</h3>
                 <div align="center" >  
-                    <a href='https://codingphase.com' target="_blank">
+                    <a href='https://rilwan-express-note-app-de8bcdf2e04e.herokuapp.com/notes' target="_blank">
                         <img src="express-note-taker.png" alt="project 3" height="100%" />
                     </a>
                     <br>
@@ -103,28 +103,28 @@
 						</a>
                     </p>
                     <p><strong>HTML, CSS, NodeJS, JavaScript, ExpressJS, JSON</strong></p>
-		    <p>Description goes here</p>
+		    <p>This is a note taking app powered by express.js using json to store all the notes, and fs.writeFile() as the tool that will add or remove data to the json file to persist and/or delete notes</p>
                 </div>
             </td>
             <td width="50%">
-<!-- Project One -->
-                <h3 align="center">Project 4</h3>
+<!-- Project Four -->
+                <h3 align="center">CLI Employee Tracker</h3>
                 <div align="center">  
-                    <a href='https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0' target="_blank">
-                        <img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/projectthumb.jpg" alt="project 4" height="100%" />
+                    <a href='\https://app.screencastify.com/v2/watch/zrqiK8EbHtwFVm4KKHPY' target="_blank">
+                        <img src="cli-employee-tracker.png" alt="project 4" height="100%" />
                     </a>
                     <br>
                     <br>
                     <p>
-                        <a href="https://codingphase.com" target="_blank">
+                        <a href="https://github.com/Rilwan0410/cli-employee-tracker" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://codingphase.com" target="_blank">
+						<a href="https://app.screencastify.com/v2/watch/zrqiK8EbHtwFVm4KKHPY" target="_blank">
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>	
                     </p>
-                    <p><strong>HTML, CSS, Javascript</strong></p>
-		    <p>Description goes here</p>
+                    <p><strong>JavaScript, NodeJS, MySQL</strong></p>
+		    <p>This is a Node JS application that allows you to create a database for employee information regarding the the name of the employee, their managers, the departments, salary and more. This app was created using inquirer to promot questions in the cli, as well as MySQL to query to a database to save and persist all of the data.</p>
                 </div>	
             </td>
         </tr>
