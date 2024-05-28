@@ -24,8 +24,10 @@
 		      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="75" height="75"/>
 		      <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/redux/redux-original.svg" width="75" height="75"/>
 		      <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/react/react-original.svg" width="75" height="75"/>
-<!-- 		      <img src="" width="75" height="75"/> -->
-<!-- 		      <img src="" width="75" height="75"/> -->
+		      <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/tailwindcss/tailwindcss-original.svg" width="75" height="75"/>
+		      <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/sass/sass-original.svg" width="75" height="75"/>
+		      <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/jquery/jquery-original-wordmark.svg" width="75" height="75"/>
+		      <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nodejs/nodejs-plain-wordmark.svg" width="75" height="75"/>
                     </div>
 </div>
 
