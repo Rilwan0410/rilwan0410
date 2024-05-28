@@ -41,9 +41,10 @@
 	<table>
 		<tr>
 			<td width="50%">
+<!-- Project One -->
 				<h3 align="center">Tech Blog</h3>
 				<div align="center">  
-					<a href='https://codingphase.com' target="_blank">
+					<a href='https://rilwan-tech-blog-950b9bce78ba.herokuapp.com/' target="_blank">
 						<img src="tech-blog-img.png" alt="project 1" height="100%" />
 					</a>
 					<br>
@@ -63,6 +64,7 @@
 				</div>
 			</td>
 			<td width="50%">
+<!-- Project Two -->
 				<h3 align="center">HBO Clone</h3>
 				<div align="center" >  
 					<a href='https://re-hboclone.netlify.app/create' target="_blank">
@@ -84,26 +86,28 @@
         </tr>
 	    <tr>
             <td width="50%">
-                <h3 align="center">Project 3</h3>
+<!-- Project Three -->
+                <h3 align="center">Note Taker</h3>
                 <div align="center" >  
                     <a href='https://codingphase.com' target="_blank">
-                        <img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/projectthumb.jpg" alt="project 3" height="100%" />
+                        <img src="express-note-taker.png" alt="project 3" height="100%" />
                     </a>
                     <br>
                     <br>
                     <p>
-                        <a href="https://codingphase.com" target="_blank">
+                        <a href="https://github.com/Rilwan0410/express_note_app" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://codingphase.com" target="_blank">
+						<a href="https://rilwan-express-note-app-de8bcdf2e04e.herokuapp.com/notes" target="_blank">
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>
                     </p>
-                    <p><strong>HTML, CSS, Javascript</strong></p>
+                    <p><strong>HTML, CSS, NodeJS, JavaScript, ExpressJS, JSON</strong></p>
 		    <p>Description goes here</p>
                 </div>
             </td>
             <td width="50%">
+<!-- Project One -->
                 <h3 align="center">Project 4</h3>
                 <div align="center">  
                     <a href='https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0' target="_blank">
