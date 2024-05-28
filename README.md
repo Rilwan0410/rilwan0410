@@ -1,9 +1,9 @@
 <div id="" align="center">
-  <img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/joebanner.jpg" width="100%"/>
+<!--   <img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/joebanner.jpg" width="100%"/> -->
 </div>
-<h1 align="center">Hi 👋, I'm Joe Santos Garcia</h1>
-<h3 align="center">A full stack developer from Tampa, FL</h3>
-<h4 align="center">Hi my name is Joe Santos Garcia a web developer based out of NYC. I've worked on web development for more than 10+ years. I have a successful youtube channel with over 80,000 subscribers who love the content I create about web development and over 50,000 students world wide in multiple platforms. My goal is to get all my students and subscribers to a level of being hired as a developer as soon as possible. </h4>
+<h1 align="center">Hi 👋, I'm Rilwan Etti</h1>
+<h3 align="center">A full stack developer from Miami, FL</h3>
+<h4 align="center">Hey my name is Rilwan Etti, I am a Full Stack Developer based in Pembroke Pines, FL. I am very passsionate about Web Development and increasing my skillset as much as possible. I have recently graduated from a Full Stack Bootcamp at the University Of Miami. </h4>
 
 <hr>
 
