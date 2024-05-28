@@ -148,7 +148,30 @@
 					</p>
 					<p><strong>HTML, CSS, JavaScript</strong></p>
           <p>
-		This is a password generator that will generate a unique password based on criteria specified. The criteria options include lowercase, uppercase, special characters and numeric characters. the password must be a minimum of 8 characters to a maximum of 128 characters. This project was built with HTML, CSS, and JavaScript."
+		This is a password generator that will generate a unique password based on criteria specified. The criteria options include lowercase, uppercase, special characters and numeric characters. the password must be a minimum of 8 characters to a maximum of 128 characters. This project was built with HTML, CSS, and JavaScript.
+					</p>
+				</div>
+			</td>
+			<td width="50%">
+<!-- Project Six -->
+				<h3 align="center">Coding Quiz</h3>
+				<div align="center">  
+					<a href='https://rilwan0410.github.io/quizGame/' target="_blank">
+						<img src="coding-quiz.png" alt="project 1" height="100%" />
+					</a>
+					<br>
+					<br>
+					<p>
+						<a href="https://github.com/Rilwan0410/quizGame" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://rilwan0410.github.io/quizGame/" target="_blank">
+              <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+						</a>
+					</p>
+					<p><strong>HTML, CSS, JavaScript</strong></p>
+          <p>
+		This is a coding quiz game that will challenge your skills on basic programming quesions. You have 75 seconds to answer all of the questions, but the catch is that you will be deducted 10 seconds for each question you answer incorrectly. How ever many seconds are left once you finished the quiz will be your final score.
 					</p>
 				</div>
 			</td>
