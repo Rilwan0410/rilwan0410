@@ -41,7 +41,7 @@
 	<table>
 		<tr>
 			<td width="50%">
-				<h3 align="center">Project 1</h3>
+				<h3 align="center">Tech Blog</h3>
 				<div align="center">  
 					<a href='https://codingphase.com' target="_blank">
 						<img src="tech-blog-img.png" alt="project 1" height="100%" />
@@ -49,16 +49,16 @@
 					<br>
 					<br>
 					<p>
-						<a href="https://codingphase.com" target="_blank">
+						<a href="https://github.com/Rilwan0410/tech_blog_app" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://codingphase.com" target="_blank">
+						<a href="https://rilwan-tech-blog-950b9bce78ba.herokuapp.com/" target="_blank">
               <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>
 					</p>
-					<p><strong>HTML, CSS, Javascript</strong></p>
+					<p><strong>HTML, CSS, JavaScript, MySQL, Sequelize, NodeJS, HandlebarsJS, ExpressJS</strong></p>
           <p>
-						Description goes here
+						This is an application that simulates a blog website with the ability for a user to create an account, create blog posts as well as the ability to edit or delete their existing blog post(s). The user can also comment on pre-existing blog posts from other accounts as well.
 					</p>
 				</div>
 			</td>
