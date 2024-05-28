@@ -66,7 +66,7 @@
 				<h3 align="center">HBO Clone</h3>
 				<div align="center" >  
 					<a href='https://re-hboclone.netlify.app/create' target="_blank">
-						<img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/projectthumb.jpg" alt="project 2" height="100%" />
+						<img src="hboClone.jpeg" alt="project 2" height="100%" />
 					</a>
 					<br>
 					<br>
