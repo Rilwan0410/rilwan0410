@@ -63,23 +63,23 @@
 				</div>
 			</td>
 			<td width="50%">
-				<h3 align="center">Project 2</h3>
+				<h3 align="center">HBO Clone</h3>
 				<div align="center" >  
-					<a href='https://github.com/Rilwan0410/tech_blog_app' target="_blank">
+					<a href='https://re-hboclone.netlify.app/create' target="_blank">
 						<img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/projectthumb.jpg" alt="project 2" height="100%" />
 					</a>
 					<br>
 					<br>
 					<p>
-						<a href="https://codingphase.com" target="_blank">
+						<a href="https://github.com/Rilwan410/HBO-Clone" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://codingphase.com" target="_blank">
+						<a href="https://re-hboclone.netlify.app/create" target="_blank">
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>	
 					</p>
-					 <p><strong>HTML, CSS, Javascript</strong></p>
-					<p>Description goes here</p>
+					 <p><strong>HTML, CSS, JavaScript, React, NextJS, TailwindCSS</strong></p>
+					<p>Clone of the popular HBO site. This was one of the first projects i completed using NextJS, NextJS routers, and NextJS Links, and was a project that helped me better understand Next JS and React.</p>
 				</div>
         </tr>
 	    <tr>
